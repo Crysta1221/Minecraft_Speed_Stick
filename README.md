@@ -9,7 +9,7 @@
 ① Minecraft Java Edition 1.16.5でワールドを生成してください。<br>
   ●生成時にチートの許可をオンにしてください。出ないとできません。<br>
 ② チャット欄で次のコマンドを入れます。　`/give @p command_block` <br>
-③ コマンドブロックを入手した後設置し、 [Commands](https://github.com/Crysta1221/Minecraft_Speed_Stick/edit/main/README.md#commands) にあるコマンドをコピーしてください。
+③ コマンドブロックを入手した後設置し、 [Commands](https://github.com/Crysta1221/Minecraft_Speed_Stick#commands) にあるコマンドをコピーしてください。
 
 # Commands
 - 足が150%速くなる棒  
